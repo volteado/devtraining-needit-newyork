@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needlt">fa6dba08db410010f7941120399619b4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Ejemplo bro</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Working with fields</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needlt</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.needlt_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 21:52:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e4c4730cdb050010f7941120399619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Working with fields</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_e4c4730cdb050010f7941120399619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 21:52:26</sys_updated_on>
+        <timeline_page/>
+        <title>Working with fields</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4e6e9916db13d3c052e3f70fbf9619a9</instance_id>
+        <instance_name>dev65312</instance_name>
+        <name>sys_app_module_e4c4730cdb050010f7941120399619ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needlt">fa6dba08db410010f7941120399619b4</application><assessment/><device_type/><filter/><hint>Ejemplo bro</hint><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Working with fields</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needlt</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.needlt_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-06 21:52:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e4c4730cdb050010f7941120399619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Working with fields</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_e4c4730cdb050010f7941120399619ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-06 21:52:26</sys_updated_on><timeline_page/><title>Working with fields</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1260719192</payload_hash>
+        <record_name>Working with fields</record_name>
+        <reverted_from/>
+        <source>6fc922c0db010010f7941120399619b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 21:52:27</sys_created_on>
+        <sys_id>63257fc8db050010f794112039961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e42b45d7e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 21:52:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ab257fc8f6050010acdb4f1b421ccf91</update_guid>
+        <update_guid_history>ab257fc8f6050010acdb4f1b421ccf91:1260719192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Working with fields">c757bb8cdb050010f79411203996190f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 22:01:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1ea68aa043ef4b4494932b0b937b2510</sys_id>
+        <sys_metadata>e4c4730cdb050010f7941120399619ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Working with fields</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_e4c4730cdb050010f7941120399619ce</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e4c4730cdb050010f7941120399619ce">63257fc8db050010f794112039961992</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 22:01:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

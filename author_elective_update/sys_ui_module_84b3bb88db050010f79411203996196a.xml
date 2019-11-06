@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Working with fields">04b3bb88db050010f794112039961968</application>
+        <filter/>
+        <name>Working with fields</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.working_with_fields_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 21:45:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84b3bb88db050010f79411203996196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Working with fields</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_84b3bb88db050010f79411203996196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 21:45:56</sys_updated_on>
+        <table>x_58872_needit_working_with_fields</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4e6e9916db13d3c052e3f70fbf9619a9</instance_id>
+        <instance_name>dev65312</instance_name>
+        <name>sys_ui_module_84b3bb88db050010f79411203996196a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Working with fields">04b3bb88db050010f794112039961968</application><filter/><name>Working with fields</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.working_with_fields_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-06 21:45:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>84b3bb88db050010f79411203996196a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Working with fields</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_84b3bb88db050010f79411203996196a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-06 21:45:56</sys_updated_on><table>x_58872_needit_working_with_fields</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>33288326</payload_hash>
+        <record_name>Working with fields</record_name>
+        <reverted_from/>
+        <source>6fc922c0db010010f7941120399619b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 21:45:56</sys_created_on>
+        <sys_id>90b3bb88db050010f79411203996196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e42ae69390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 21:45:56</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c8b3bb88e7050010e83cb95a8429266b</update_guid>
+        <update_guid_history>c8b3bb88e7050010e83cb95a8429266b:33288326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-06 21:50:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>134e4eb4b7bc41dc8503270cdb09bfa4</sys_id>
+        <sys_metadata>84b3bb88db050010f79411203996196a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Working with fields</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_84b3bb88db050010f79411203996196a</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_84b3bb88db050010f79411203996196a">90b3bb88db050010f79411203996196c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-06 21:50:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
