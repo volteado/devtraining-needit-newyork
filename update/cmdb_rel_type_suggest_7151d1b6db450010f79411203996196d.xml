@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_rel_type_suggest">
+    <cmdb_rel_type_suggest action="INSERT_OR_UPDATE">
+        <base_class>x_58872_needit_infinity</base_class>
+        <child>false</child>
+        <cmdb_rel_type display_value="Applicative Flow To::Applicative Flow From">85d98503ff100200d699ffffffffff8c</cmdb_rel_type>
+        <dependent_class>cmdb_ci_server</dependent_class>
+        <parent>true</parent>
+        <relationship>parent:85d98503ff100200d699ffffffffff8c</relationship>
+        <sys_class_name>cmdb_rel_type_suggest</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 23:00:39</sys_created_on>
+        <sys_id>7151d1b6db450010f79411203996196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_infinity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>cmdb_rel_type_suggest_7151d1b6db450010f79411203996196d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 23:00:39</sys_updated_on>
+    </cmdb_rel_type_suggest>
+</record_update>

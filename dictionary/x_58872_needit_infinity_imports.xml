@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Infinity Imports" max_length="40" name="x_58872_needit_infinity_imports" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device Number" label="Device Number" max_length="40" name="u_device_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device Owner" label="Device Owner" max_length="40" name="u_device_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner Location" label="Owner Location" max_length="42" name="u_owner_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Support Group" label="Support Group" max_length="40" name="u_support_group" type="string"/>
+    </element>
+</database>
